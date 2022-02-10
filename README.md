@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Much-App
 - 👀 I’m interested in learning programming and getting a career as a Software Developer
 - 🌱 I’m currently learning the basics of programming with The Odin Project
-- 💞️ I’m looking to collaborate on ... nothing yet
+- 💞️ I’m looking to collaborate on ... amateur-friendly projects or challenges. 
 - 📫 How to reach me ... 
 
 <!---
